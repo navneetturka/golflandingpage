@@ -59,7 +59,7 @@ gsap.from("#about-us img,#about-us-in", {
   },
 });
 gsap.from(".card", {
-  scale: 0.7,
+  scale: 0.65,
   duration: 1,
   stagger: 0.1,
   scrollTrigger: {
